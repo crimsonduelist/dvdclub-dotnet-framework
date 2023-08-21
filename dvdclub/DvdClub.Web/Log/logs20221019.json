@@ -1,0 +1,230 @@
+{"@t":"2022-10-19T08:41:22.5700858Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T08:41:22.7150940Z","@mt":"The time is {Now}","Now":"2022-10-19T11:41:22.7140940+03:00"}
+{"@t":"2022-10-19T09:33:25.0856834Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:33:27.3938154Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:33:29.3349265Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T09:33:50.9251614Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":81}
+{"@t":"2022-10-19T09:35:49.4869427Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":81}
+{"@t":"2022-10-19T09:37:14.0857815Z","@mt":"ajax passed controller error with id: {id}","id":79}
+{"@t":"2022-10-19T09:37:42.3293969Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:37:50.1808460Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:42:57.6584327Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":81}
+{"@t":"2022-10-19T09:43:10.6761773Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":81}
+{"@t":"2022-10-19T09:43:40.7378967Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T09:44:09.4035363Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T09:44:11.8826781Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":81}
+{"@t":"2022-10-19T09:44:33.6829250Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:44:44.7205563Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:44:46.3916519Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:45:37.4735736Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:45:53.1784719Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:46:26.6003835Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:46:36.5049500Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:46:38.7020757Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":81}
+{"@t":"2022-10-19T09:46:40.1441582Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T09:48:22.3520041Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:48:25.0231569Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T09:48:26.7252543Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T09:48:27.1732799Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:49:14.5819915Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:49:16.8151192Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":81}
+{"@t":"2022-10-19T09:53:24.1142639Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:53:47.9956299Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T09:54:06.9207123Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:54:08.9648292Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:54:17.5083179Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:54:19.6564408Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T09:54:31.4671163Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T09:54:33.2222167Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:54:35.3053358Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T09:54:47.8830552Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:54:49.5811524Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:55:13.1755019Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:55:14.9816052Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T09:55:35.0977558Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:55:55.8229412Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:56:09.3657158Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:56:11.3628300Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:56:13.4459492Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T09:56:26.8137138Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:56:28.9238344Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:56:30.5549277Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T09:57:46.9402967Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T09:57:49.4604409Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:57:54.2077124Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T09:57:56.9348684Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T09:58:32.8349218Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:58:56.9753025Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:58:59.3014355Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T09:59:42.9249307Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T09:59:45.0160503Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T09:59:46.6691448Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T10:00:46.5175680Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:00:48.4326775Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:00:50.2997843Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T10:01:48.1970958Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:01:50.3012162Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:01:52.8633627Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T10:05:19.2481673Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:05:23.1003876Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:05:32.9399504Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:05:43.2645409Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T10:06:00.2265111Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:06:17.7515135Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T10:09:26.6193161Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:09:43.4722800Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:10:07.9356792Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:10:27.1987810Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:10:43.6047194Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:12:01.8981975Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:12:29.2587625Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T10:13:03.2837086Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:14:57.4632393Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:15:06.9527820Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:17:31.2330344Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:46:45.7533872Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:46:45.7343861Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:46:46.0604048Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:46:46.1074075Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T10:46:46.1324089Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:46:46.1644107Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:46:46.1644107Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:48:36.7617365Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T10:48:39.3888868Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:48:57.0228954Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:48:58.1479598Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:49:26.1635622Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:26.9416067Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:27.2916267Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:27.5176396Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:27.7556532Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:28.0136680Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:29.4097478Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:29.6267602Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:29.8527732Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:30.1667911Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:30.4998102Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:30.7418240Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:30.9268346Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:31.3308577Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:31.5338693Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:49:45.1336472Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:45.7666834Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:45.9486938Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:46.1157034Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:46.3107145Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:46.4807242Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:46.6467337Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:46.8107431Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:47.0037542Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:47.1697636Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:47.4467795Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:49:59.1424484Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:49:59.9014919Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:00.1745075Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:00.3525177Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:00.5635297Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:00.7155384Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:00.9365511Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:01.1045607Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:01.2875711Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:01.5085838Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:01.6975946Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:01.8966060Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:02.0916171Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:02.3036293Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T10:50:27.6910813Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:50:28.4031221Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:50:28.6181344Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:50:28.8521477Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:50:29.0761606Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:50:29.2681715Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:50:29.4901842Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:50:29.7091968Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:50:31.3772922Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":83}
+{"@t":"2022-10-19T10:52:12.8540963Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T10:52:12.8740975Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":82}
+{"@t":"2022-10-19T10:52:17.4663601Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":81}
+{"@t":"2022-10-19T10:52:19.5244778Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:52:28.4429879Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:52:59.9437897Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T10:53:03.0389667Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":80}
+{"@t":"2022-10-19T10:53:06.1811464Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":84}
+{"@t":"2022-10-19T10:55:57.3319357Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:56:47.1047826Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T10:57:49.5353534Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":79}
+{"@t":"2022-10-19T10:58:53.0479861Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":90}
+{"@t":"2022-10-19T10:58:53.0449859Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":88}
+{"@t":"2022-10-19T10:58:56.8012008Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":85}
+{"@t":"2022-10-19T10:59:37.7015401Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T10:59:42.5008146Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":86}
+{"@t":"2022-10-19T11:00:06.6771974Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:02:03.7248922Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:02:11.8953595Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:02:16.2246071Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":89}
+{"@t":"2022-10-19T11:03:07.0245127Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:03:09.8916767Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T11:03:19.7692417Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:03:52.6311213Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":78}
+{"@t":"2022-10-19T11:03:54.0362016Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T11:04:03.3427339Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":77}
+{"@t":"2022-10-19T11:04:40.7478734Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:04:43.8680519Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:05:58.3483119Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:06:08.5788970Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":87}
+{"@t":"2022-10-19T11:06:13.9732056Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":76}
+{"@t":"2022-10-19T11:10:02.3712692Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:10:02.3782696Z","@mt":"The time is {Now}","Now":"2022-10-19T14:10:02.3782696+03:00"}
+{"@t":"2022-10-19T11:10:06.8015226Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:10:06.8065229Z","@mt":"The time is {Now}","Now":"2022-10-19T14:10:06.8065229+03:00"}
+{"@t":"2022-10-19T11:10:49.9259892Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:10:49.9849925Z","@mt":"The time is {Now}","Now":"2022-10-19T14:10:49.9839925+03:00"}
+{"@t":"2022-10-19T11:14:23.6832154Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:14:23.7602198Z","@mt":"The time is {Now}","Now":"2022-10-19T14:14:23.7592197+03:00"}
+{"@t":"2022-10-19T11:14:34.9008570Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:14:34.9058573Z","@mt":"The time is {Now}","Now":"2022-10-19T14:14:34.9058573+03:00"}
+{"@t":"2022-10-19T11:14:59.0842402Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:14:59.0522384Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:14:59.2222481Z","@mt":"The time is {Now}","Now":"2022-10-19T14:14:59.2222481+03:00"}
+{"@t":"2022-10-19T11:14:59.2232482Z","@mt":"The time is {Now}","Now":"2022-10-19T14:14:59.2222481+03:00"}
+{"@t":"2022-10-19T11:15:05.5786117Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:15:05.5826119Z","@mt":"The time is {Now}","Now":"2022-10-19T14:15:05.5826119+03:00"}
+{"@t":"2022-10-19T11:15:07.8137395Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:15:18.1543310Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:18:58.6179408Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:18:58.6229410Z","@mt":"The time is {Now}","Now":"2022-10-19T14:18:58.6229410+03:00"}
+{"@t":"2022-10-19T11:19:01.8631264Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:19:09.3775562Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:19:28.1506299Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:19:46.3626716Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:20:48.7102377Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:21:23.1682086Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T11:21:23.1722088Z","@mt":"The time is {Now}","Now":"2022-10-19T14:21:23.1722088+03:00"}
+{"@t":"2022-10-19T11:21:31.5536882Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:21:45.4184812Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:22:48.2890772Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:23:12.5534650Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:23:26.0972397Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:47:15.7890134Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:48:13.4923138Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:48:17.6445513Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:50:41.5167803Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:50:43.5298955Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:53:20.5228750Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:53:23.7530597Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:53:39.6809707Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:54:32.3149812Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:56:04.3652462Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:56:19.9551379Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:56:24.2913859Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T11:56:39.6612650Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:56:40.9803405Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T11:57:02.1325503Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":92}
+{"@t":"2022-10-19T12:17:18.4051171Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":93}
+{"@t":"2022-10-19T12:17:32.3909171Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":91}
+{"@t":"2022-10-19T12:17:36.6411602Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T12:17:36.6481606Z","@mt":"The time is {Now}","Now":"2022-10-19T15:17:36.6471605+03:00"}
+{"@t":"2022-10-19T12:17:54.1241601Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-19T12:17:54.1301605Z","@mt":"The time is {Now}","Now":"2022-10-19T15:17:54.1301605+03:00"}
+{"@t":"2022-10-19T12:18:08.1419619Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":94}
+{"@t":"2022-10-19T12:18:11.3831473Z","@mt":"ajax passed controller error with id: {id}","@l":"Debug","id":94}

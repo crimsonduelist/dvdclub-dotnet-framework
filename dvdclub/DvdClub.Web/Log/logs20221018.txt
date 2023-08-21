@@ -1,0 +1,20 @@
+[10:44:49 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[14:00:04 DBG] No Available Copies Left For This Movie: 123@123.com ,User Movie1
+[14:00:10 INF] email Movie1 or movie title 123@123.com not registered in our system
+[14:00:17 INF] email Movie1 or movie title 123@123.com not registered in our system
+[14:02:36 DBG] No Available Copies Left For This Movie: 123@123.com ,User Movie1
+[14:02:39 INF] email Movie1 or movie title 123@123.com not registered in our system
+[14:03:07 DBG] No Available Copies Left For This Movie: 123@123.com ,User Movie334
+[14:03:20 INF] email Movie334 or movie title 123@123.com not registered in our system
+[14:03:34 DBG] No Available Copies Left For This Movie: 123@123.com ,User Movie1
+[14:04:07 INF] email Movie1 or movie title 123@123.com not registered in our system
+[14:06:29 DBG] No Available Copies Left For This Movie: 123@123.com ,User Movie334
+[14:07:54 DBG] No Available Copies Left For This Movie: 123@123.com ,User Movie334
+[14:10:04 DBG] No Available Copies Left For This Movie: crimson@crimson.com ,User Movie334
+[14:10:17 DBG] No Available Copies Left For This Movie: crimson@crimson.com ,User Movie334
+[14:26:13 DBG] No Available Copy Left For This Movie: Movie1 ,User 123@123.com
+[14:31:43 DBG] No Available Copy Left For This Movie: Movie1 ,User 123@123.com
+[17:03:57 INF] Hello, Serilog!
+[17:03:57 INF] The time is "2022-10-18T17:03:57.5533301+03:00"
+[17:04:38 INF] Hello, Serilog!
+[17:04:39 INF] The time is "2022-10-18T17:04:39.0097013+03:00"

@@ -1,0 +1,20 @@
+{"@t":"2022-10-18T07:44:49.5132167Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-18T11:00:04.3662679Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"123@123.com","email":"Movie1"}
+{"@t":"2022-10-18T11:00:10.2656054Z","@mt":"email {email} or movie title {movie} not registered in our system","email":"Movie1","movie":"123@123.com"}
+{"@t":"2022-10-18T11:00:17.9950475Z","@mt":"email {email} or movie title {movie} not registered in our system","email":"Movie1","movie":"123@123.com"}
+{"@t":"2022-10-18T11:02:36.2479551Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"123@123.com","email":"Movie1"}
+{"@t":"2022-10-18T11:02:39.7011526Z","@mt":"email {email} or movie title {movie} not registered in our system","email":"Movie1","movie":"123@123.com"}
+{"@t":"2022-10-18T11:03:07.3097317Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"123@123.com","email":"Movie334"}
+{"@t":"2022-10-18T11:03:20.6284935Z","@mt":"email {email} or movie title {movie} not registered in our system","email":"Movie334","movie":"123@123.com"}
+{"@t":"2022-10-18T11:03:34.8643077Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"123@123.com","email":"Movie1"}
+{"@t":"2022-10-18T11:04:07.2391595Z","@mt":"email {email} or movie title {movie} not registered in our system","email":"Movie1","movie":"123@123.com"}
+{"@t":"2022-10-18T11:06:29.9243206Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"123@123.com","email":"Movie334"}
+{"@t":"2022-10-18T11:07:54.7851744Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"123@123.com","email":"Movie334"}
+{"@t":"2022-10-18T11:10:04.3145830Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"crimson@crimson.com","email":"Movie334"}
+{"@t":"2022-10-18T11:10:17.0183096Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"crimson@crimson.com","email":"Movie334"}
+{"@t":"2022-10-18T11:26:13.5150181Z","@mt":"No Available Copy Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"Movie1","email":"123@123.com"}
+{"@t":"2022-10-18T11:31:43.4728906Z","@mt":"No Available Copy Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"Movie1","email":"123@123.com"}
+{"@t":"2022-10-18T14:03:57.0913037Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-18T14:03:57.5533301Z","@mt":"The time is {Now}","Now":"2022-10-18T17:03:57.5533301+03:00"}
+{"@t":"2022-10-18T14:04:38.9987007Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-18T14:04:39.0097013Z","@mt":"The time is {Now}","Now":"2022-10-18T17:04:39.0097013+03:00"}

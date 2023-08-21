@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdClub.Web", "DvdClub.Web\DvdClub.Web.csproj", "{F662435A-61E0-4E49-A3C8-E7EF28269D74}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1EA4A54F-D27B-489B-AC8D-A3972AE749D6} = {1EA4A54F-D27B-489B-AC8D-A3972AE749D6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdClub.Data", "DvdClub.Data\DvdClub.Data.csproj", "{420B3FBD-C99F-4EEE-9068-D9D0456679AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdClub.Core", "DvdClub.Core\DvdClub.Core.csproj", "{97B47119-698E-4A32-98E1-ADAD1F3595DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdClub.Infrastructure", "DvdClub.Infrastructure\DvdClub.Infrastructure.csproj", "{1EA4A54F-D27B-489B-AC8D-A3972AE749D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdClub.Common", "DvdClub.Common\DvdClub.Common.csproj", "{526DD45F-FD67-4EDB-A50E-1A215C5336B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F662435A-61E0-4E49-A3C8-E7EF28269D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F662435A-61E0-4E49-A3C8-E7EF28269D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F662435A-61E0-4E49-A3C8-E7EF28269D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F662435A-61E0-4E49-A3C8-E7EF28269D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420B3FBD-C99F-4EEE-9068-D9D0456679AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420B3FBD-C99F-4EEE-9068-D9D0456679AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420B3FBD-C99F-4EEE-9068-D9D0456679AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B47119-698E-4A32-98E1-ADAD1F3595DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B47119-698E-4A32-98E1-ADAD1F3595DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B47119-698E-4A32-98E1-ADAD1F3595DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B47119-698E-4A32-98E1-ADAD1F3595DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA4A54F-D27B-489B-AC8D-A3972AE749D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA4A54F-D27B-489B-AC8D-A3972AE749D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA4A54F-D27B-489B-AC8D-A3972AE749D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA4A54F-D27B-489B-AC8D-A3972AE749D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526DD45F-FD67-4EDB-A50E-1A215C5336B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526DD45F-FD67-4EDB-A50E-1A215C5336B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526DD45F-FD67-4EDB-A50E-1A215C5336B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526DD45F-FD67-4EDB-A50E-1A215C5336B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0165B2B2-6971-4CF2-95BF-0FE8283FCD69}
+	EndGlobalSection
+EndGlobal

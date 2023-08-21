@@ -1,0 +1,230 @@
+[11:41:22 INF] Hello, Serilog!
+[11:41:22 INF] The time is "2022-10-19T11:41:22.7140940+03:00"
+[12:33:25 DBG] ajax passed controller error with id: 78
+[12:33:27 DBG] ajax passed controller error with id: 78
+[12:33:29 DBG] ajax passed controller error with id: 80
+[12:33:50 DBG] ajax passed controller error with id: 81
+[12:35:49 DBG] ajax passed controller error with id: 81
+[12:37:14 INF] ajax passed controller error with id: 79
+[12:37:42 DBG] ajax passed controller error with id: 78
+[12:37:50 DBG] ajax passed controller error with id: 78
+[12:42:57 DBG] ajax passed controller error with id: 81
+[12:43:10 DBG] ajax passed controller error with id: 81
+[12:43:40 DBG] ajax passed controller error with id: 80
+[12:44:09 DBG] ajax passed controller error with id: 80
+[12:44:11 DBG] ajax passed controller error with id: 81
+[12:44:33 DBG] ajax passed controller error with id: 79
+[12:44:44 DBG] ajax passed controller error with id: 78
+[12:44:46 DBG] ajax passed controller error with id: 79
+[12:45:37 DBG] ajax passed controller error with id: 79
+[12:45:53 DBG] ajax passed controller error with id: 79
+[12:46:26 DBG] ajax passed controller error with id: 79
+[12:46:36 DBG] ajax passed controller error with id: 79
+[12:46:38 DBG] ajax passed controller error with id: 81
+[12:46:40 DBG] ajax passed controller error with id: 76
+[12:48:22 DBG] ajax passed controller error with id: 78
+[12:48:25 DBG] ajax passed controller error with id: 77
+[12:48:26 DBG] ajax passed controller error with id: 77
+[12:48:27 DBG] ajax passed controller error with id: 78
+[12:49:14 DBG] ajax passed controller error with id: 79
+[12:49:16 DBG] ajax passed controller error with id: 81
+[12:53:24 DBG] ajax passed controller error with id: 79
+[12:53:47 DBG] ajax passed controller error with id: 82
+[12:54:06 DBG] ajax passed controller error with id: 79
+[12:54:08 DBG] ajax passed controller error with id: 78
+[12:54:17 DBG] ajax passed controller error with id: 78
+[12:54:19 DBG] ajax passed controller error with id: 80
+[12:54:31 DBG] ajax passed controller error with id: 77
+[12:54:33 DBG] ajax passed controller error with id: 78
+[12:54:35 DBG] ajax passed controller error with id: 82
+[12:54:47 DBG] ajax passed controller error with id: 78
+[12:54:49 DBG] ajax passed controller error with id: 79
+[12:55:13 DBG] ajax passed controller error with id: 79
+[12:55:14 DBG] ajax passed controller error with id: 80
+[12:55:35 DBG] ajax passed controller error with id: 79
+[12:55:55 DBG] ajax passed controller error with id: 79
+[12:56:09 DBG] ajax passed controller error with id: 78
+[12:56:11 DBG] ajax passed controller error with id: 79
+[12:56:13 DBG] ajax passed controller error with id: 82
+[12:56:26 DBG] ajax passed controller error with id: 78
+[12:56:28 DBG] ajax passed controller error with id: 79
+[12:56:30 DBG] ajax passed controller error with id: 82
+[12:57:46 DBG] ajax passed controller error with id: 80
+[12:57:49 DBG] ajax passed controller error with id: 79
+[12:57:54 DBG] ajax passed controller error with id: 76
+[12:57:56 DBG] ajax passed controller error with id: 77
+[12:58:32 DBG] ajax passed controller error with id: 79
+[12:58:56 DBG] ajax passed controller error with id: 78
+[12:58:59 DBG] ajax passed controller error with id: 76
+[12:59:42 DBG] ajax passed controller error with id: 78
+[12:59:45 DBG] ajax passed controller error with id: 79
+[12:59:46 DBG] ajax passed controller error with id: 82
+[13:00:46 DBG] ajax passed controller error with id: 78
+[13:00:48 DBG] ajax passed controller error with id: 79
+[13:00:50 DBG] ajax passed controller error with id: 82
+[13:01:48 DBG] ajax passed controller error with id: 78
+[13:01:50 DBG] ajax passed controller error with id: 76
+[13:01:52 DBG] ajax passed controller error with id: 82
+[13:05:19 DBG] ajax passed controller error with id: 78
+[13:05:23 DBG] ajax passed controller error with id: 79
+[13:05:32 DBG] ajax passed controller error with id: 80
+[13:05:43 DBG] ajax passed controller error with id: 77
+[13:06:00 DBG] ajax passed controller error with id: 78
+[13:06:17 DBG] ajax passed controller error with id: 77
+[13:09:26 DBG] ajax passed controller error with id: 78
+[13:09:43 DBG] ajax passed controller error with id: 78
+[13:10:07 DBG] ajax passed controller error with id: 78
+[13:10:27 DBG] ajax passed controller error with id: 78
+[13:10:43 DBG] ajax passed controller error with id: 80
+[13:12:01 DBG] ajax passed controller error with id: 78
+[13:12:29 DBG] ajax passed controller error with id: 77
+[13:13:03 DBG] ajax passed controller error with id: 76
+[13:14:57 DBG] ajax passed controller error with id: 78
+[13:15:06 DBG] ajax passed controller error with id: 79
+[13:17:31 DBG] ajax passed controller error with id: 78
+[13:46:45 DBG] ajax passed controller error with id: 79
+[13:46:45 DBG] ajax passed controller error with id: 79
+[13:46:46 DBG] ajax passed controller error with id: 79
+[13:46:46 DBG] ajax passed controller error with id: 77
+[13:46:46 DBG] ajax passed controller error with id: 79
+[13:46:46 DBG] ajax passed controller error with id: 83
+[13:46:46 DBG] ajax passed controller error with id: 83
+[13:48:36 DBG] ajax passed controller error with id: 77
+[13:48:39 DBG] ajax passed controller error with id: 80
+[13:48:57 DBG] ajax passed controller error with id: 78
+[13:48:58 DBG] ajax passed controller error with id: 79
+[13:49:26 DBG] ajax passed controller error with id: 80
+[13:49:26 DBG] ajax passed controller error with id: 80
+[13:49:27 DBG] ajax passed controller error with id: 80
+[13:49:27 DBG] ajax passed controller error with id: 80
+[13:49:27 DBG] ajax passed controller error with id: 80
+[13:49:28 DBG] ajax passed controller error with id: 80
+[13:49:29 DBG] ajax passed controller error with id: 83
+[13:49:29 DBG] ajax passed controller error with id: 83
+[13:49:29 DBG] ajax passed controller error with id: 83
+[13:49:30 DBG] ajax passed controller error with id: 83
+[13:49:30 DBG] ajax passed controller error with id: 83
+[13:49:30 DBG] ajax passed controller error with id: 83
+[13:49:30 DBG] ajax passed controller error with id: 83
+[13:49:31 DBG] ajax passed controller error with id: 83
+[13:49:31 DBG] ajax passed controller error with id: 83
+[13:49:45 DBG] ajax passed controller error with id: 80
+[13:49:45 DBG] ajax passed controller error with id: 80
+[13:49:45 DBG] ajax passed controller error with id: 80
+[13:49:46 DBG] ajax passed controller error with id: 80
+[13:49:46 DBG] ajax passed controller error with id: 80
+[13:49:46 DBG] ajax passed controller error with id: 80
+[13:49:46 DBG] ajax passed controller error with id: 80
+[13:49:46 DBG] ajax passed controller error with id: 80
+[13:49:47 DBG] ajax passed controller error with id: 80
+[13:49:47 DBG] ajax passed controller error with id: 80
+[13:49:47 DBG] ajax passed controller error with id: 80
+[13:49:59 DBG] ajax passed controller error with id: 76
+[13:49:59 DBG] ajax passed controller error with id: 76
+[13:50:00 DBG] ajax passed controller error with id: 76
+[13:50:00 DBG] ajax passed controller error with id: 76
+[13:50:00 DBG] ajax passed controller error with id: 76
+[13:50:00 DBG] ajax passed controller error with id: 76
+[13:50:00 DBG] ajax passed controller error with id: 76
+[13:50:01 DBG] ajax passed controller error with id: 76
+[13:50:01 DBG] ajax passed controller error with id: 76
+[13:50:01 DBG] ajax passed controller error with id: 76
+[13:50:01 DBG] ajax passed controller error with id: 76
+[13:50:01 DBG] ajax passed controller error with id: 76
+[13:50:02 DBG] ajax passed controller error with id: 76
+[13:50:02 DBG] ajax passed controller error with id: 76
+[13:50:27 DBG] ajax passed controller error with id: 79
+[13:50:28 DBG] ajax passed controller error with id: 79
+[13:50:28 DBG] ajax passed controller error with id: 79
+[13:50:28 DBG] ajax passed controller error with id: 79
+[13:50:29 DBG] ajax passed controller error with id: 79
+[13:50:29 DBG] ajax passed controller error with id: 79
+[13:50:29 DBG] ajax passed controller error with id: 79
+[13:50:29 DBG] ajax passed controller error with id: 79
+[13:50:31 DBG] ajax passed controller error with id: 83
+[13:52:12 DBG] ajax passed controller error with id: 82
+[13:52:12 DBG] ajax passed controller error with id: 82
+[13:52:17 DBG] ajax passed controller error with id: 81
+[13:52:19 DBG] ajax passed controller error with id: 79
+[13:52:28 DBG] ajax passed controller error with id: 78
+[13:52:59 DBG] ajax passed controller error with id: 77
+[13:53:03 DBG] ajax passed controller error with id: 80
+[13:53:06 DBG] ajax passed controller error with id: 84
+[13:55:57 DBG] ajax passed controller error with id: 79
+[13:56:47 DBG] ajax passed controller error with id: 78
+[13:57:49 DBG] ajax passed controller error with id: 79
+[13:58:53 DBG] ajax passed controller error with id: 90
+[13:58:53 DBG] ajax passed controller error with id: 88
+[13:58:56 DBG] ajax passed controller error with id: 85
+[13:59:37 DBG] ajax passed controller error with id: 77
+[13:59:42 DBG] ajax passed controller error with id: 86
+[14:00:06 DBG] ajax passed controller error with id: 76
+[14:02:03 DBG] ajax passed controller error with id: 76
+[14:02:11 DBG] ajax passed controller error with id: 76
+[14:02:16 DBG] ajax passed controller error with id: 89
+[14:03:07 DBG] ajax passed controller error with id: 76
+[14:03:09 DBG] ajax passed controller error with id: 77
+[14:03:19 DBG] ajax passed controller error with id: 76
+[14:03:52 DBG] ajax passed controller error with id: 78
+[14:03:54 DBG] ajax passed controller error with id: 77
+[14:04:03 DBG] ajax passed controller error with id: 77
+[14:04:40 DBG] ajax passed controller error with id: 76
+[14:04:43 DBG] ajax passed controller error with id: 76
+[14:05:58 DBG] ajax passed controller error with id: 76
+[14:06:08 DBG] ajax passed controller error with id: 87
+[14:06:13 DBG] ajax passed controller error with id: 76
+[14:10:02 INF] Hello, Serilog!
+[14:10:02 INF] The time is "2022-10-19T14:10:02.3782696+03:00"
+[14:10:06 INF] Hello, Serilog!
+[14:10:06 INF] The time is "2022-10-19T14:10:06.8065229+03:00"
+[14:10:49 INF] Hello, Serilog!
+[14:10:49 INF] The time is "2022-10-19T14:10:49.9839925+03:00"
+[14:14:23 INF] Hello, Serilog!
+[14:14:23 INF] The time is "2022-10-19T14:14:23.7592197+03:00"
+[14:14:34 INF] Hello, Serilog!
+[14:14:34 INF] The time is "2022-10-19T14:14:34.9058573+03:00"
+[14:14:59 INF] Hello, Serilog!
+[14:14:59 INF] Hello, Serilog!
+[14:14:59 INF] The time is "2022-10-19T14:14:59.2222481+03:00"
+[14:14:59 INF] The time is "2022-10-19T14:14:59.2222481+03:00"
+[14:15:05 INF] Hello, Serilog!
+[14:15:05 INF] The time is "2022-10-19T14:15:05.5826119+03:00"
+[14:15:07 DBG] ajax passed controller error with id: 92
+[14:15:18 DBG] ajax passed controller error with id: 92
+[14:18:58 INF] Hello, Serilog!
+[14:18:58 INF] The time is "2022-10-19T14:18:58.6229410+03:00"
+[14:19:01 DBG] ajax passed controller error with id: 93
+[14:19:09 DBG] ajax passed controller error with id: 93
+[14:19:28 DBG] ajax passed controller error with id: 93
+[14:19:46 DBG] ajax passed controller error with id: 93
+[14:20:48 DBG] ajax passed controller error with id: 93
+[14:21:23 INF] Hello, Serilog!
+[14:21:23 INF] The time is "2022-10-19T14:21:23.1722088+03:00"
+[14:21:31 DBG] ajax passed controller error with id: 93
+[14:21:45 DBG] ajax passed controller error with id: 92
+[14:22:48 DBG] ajax passed controller error with id: 93
+[14:23:12 DBG] ajax passed controller error with id: 93
+[14:23:26 DBG] ajax passed controller error with id: 92
+[14:47:15 DBG] ajax passed controller error with id: 92
+[14:48:13 DBG] ajax passed controller error with id: 92
+[14:48:17 DBG] ajax passed controller error with id: 93
+[14:50:41 DBG] ajax passed controller error with id: 92
+[14:50:43 DBG] ajax passed controller error with id: 93
+[14:53:20 DBG] ajax passed controller error with id: 92
+[14:53:23 DBG] ajax passed controller error with id: 92
+[14:53:39 DBG] ajax passed controller error with id: 92
+[14:54:32 DBG] ajax passed controller error with id: 93
+[14:56:04 DBG] ajax passed controller error with id: 92
+[14:56:19 DBG] ajax passed controller error with id: 92
+[14:56:24 DBG] ajax passed controller error with id: 93
+[14:56:39 DBG] ajax passed controller error with id: 92
+[14:56:40 DBG] ajax passed controller error with id: 92
+[14:57:02 DBG] ajax passed controller error with id: 92
+[15:17:18 DBG] ajax passed controller error with id: 93
+[15:17:32 DBG] ajax passed controller error with id: 91
+[15:17:36 INF] Hello, Serilog!
+[15:17:36 INF] The time is "2022-10-19T15:17:36.6471605+03:00"
+[15:17:54 INF] Hello, Serilog!
+[15:17:54 INF] The time is "2022-10-19T15:17:54.1301605+03:00"
+[15:18:08 DBG] ajax passed controller error with id: 94
+[15:18:11 DBG] ajax passed controller error with id: 94

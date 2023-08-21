@@ -1,0 +1,36 @@
+[12:14:02 INF] Hello, Serilog!
+[12:14:07 INF] The time is "2022-10-17T12:14:07.3138680+03:00"
+[12:14:08 INF] hi
+[12:15:38 INF] Hello, Serilog!
+[12:15:38 INF] The time is "2022-10-17T12:15:38.5380857+03:00"
+[12:15:39 INF] To serialize 62 or not to Serialize 62
+[12:17:50 INF] Hello, Serilog!
+[12:17:50 INF] The time is "2022-10-17T12:17:50.3096226+03:00"
+[12:17:51 INF] To serialize 62 or not to Serialize 62
+[12:50:24 INF] email or movie title not registered in our system
+[12:52:06 INF] email null or movie title fdjh not registered in our system
+[13:06:00 INF] email crimsdfson@crimson.com or movie title Movie334 not registered in our system
+[13:08:03 DBG] No Available Copies Left For This Movie
+[13:08:29 DBG] No Available Copies Left For This Movie
+[13:09:36 DBG] No Available Copies Left For This Movie
+[13:09:47 DBG] No Available Copies Left For This Movie
+[13:14:31 DBG] No Available Copies Left For This Movie: MovieTestNextPage
+[13:18:04 DBG] No Available Copies Left For This Movie: MovieTestNextPage
+[13:18:13 DBG] No Available Copies Left For This Movie: MovieTestNextPage
+[13:19:30 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[13:19:36 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[13:21:02 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[13:21:51 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[13:24:21 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[13:24:23 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[13:24:23 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[13:24:26 DBG] No Available Copies Left For This Movie: MovieTestNextPage ,User 123@123.com
+[18:11:07 INF] Hello, Serilog!
+[18:11:07 INF] The time is "2022-10-17T18:11:07.7120447+03:00"
+[18:11:08 INF] To serialize 66 or not to Serialize 66
+[18:15:07 INF] Hello, Serilog!
+[18:15:07 INF] The time is "2022-10-17T18:15:07.8177780+03:00"
+[18:15:08 INF] To serialize 66 or not to Serialize 66
+[18:38:08 INF] Hello, Serilog!
+[18:38:08 INF] The time is "2022-10-17T18:38:08.1007256+03:00"
+[18:38:08 INF] To serialize 66 or not to Serialize 66

@@ -1,0 +1,36 @@
+{"@t":"2022-10-17T09:14:02.2615790Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-17T09:14:07.3148681Z","@mt":"The time is {Now}","Now":"2022-10-17T12:14:07.3138680+03:00"}
+{"@t":"2022-10-17T09:14:08.2589221Z","@mt":"hi"}
+{"@t":"2022-10-17T09:15:38.4750821Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-17T09:15:38.5390858Z","@mt":"The time is {Now}","Now":"2022-10-17T12:15:38.5380857+03:00"}
+{"@t":"2022-10-17T09:15:39.4951405Z","@mt":"To serialize {tmp} or not to Serialize {@tmp}","tmp":62}
+{"@t":"2022-10-17T09:17:50.2526194Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-17T09:17:50.3106227Z","@mt":"The time is {Now}","Now":"2022-10-17T12:17:50.3096226+03:00"}
+{"@t":"2022-10-17T09:17:51.3586826Z","@mt":"To serialize {tmp} or not to Serialize {@tmp}","tmp":62}
+{"@t":"2022-10-17T09:50:24.6454043Z","@mt":"email or movie title not registered in our system"}
+{"@t":"2022-10-17T09:52:06.2952183Z","@mt":"email {email} or movie title {movie} not registered in our system","email":null,"movie":"fdjh"}
+{"@t":"2022-10-17T10:06:00.3709247Z","@mt":"email {email} or movie title {movie} not registered in our system","email":"crimsdfson@crimson.com","movie":"Movie334"}
+{"@t":"2022-10-17T10:08:03.0649424Z","@mt":"No Available Copies Left For This Movie","@l":"Debug"}
+{"@t":"2022-10-17T10:08:29.2244386Z","@mt":"No Available Copies Left For This Movie","@l":"Debug"}
+{"@t":"2022-10-17T10:09:36.2042696Z","@mt":"No Available Copies Left For This Movie","@l":"Debug"}
+{"@t":"2022-10-17T10:09:47.3289059Z","@mt":"No Available Copies Left For This Movie","@l":"Debug"}
+{"@t":"2022-10-17T10:14:31.6641690Z","@mt":"No Available Copies Left For This Movie: {movieTitle}","@l":"Debug","movieTitle":"MovieTestNextPage"}
+{"@t":"2022-10-17T10:18:04.1943250Z","@mt":"No Available Copies Left For This Movie: {movieTitle}","@l":"Debug","movieTitle":"MovieTestNextPage"}
+{"@t":"2022-10-17T10:18:13.4048518Z","@mt":"No Available Copies Left For This Movie: {movieTitle}","@l":"Debug","movieTitle":"MovieTestNextPage"}
+{"@t":"2022-10-17T10:19:30.8762829Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-17T10:19:36.4716030Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-17T10:21:02.2135071Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-17T10:21:51.6453345Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-17T10:24:21.8009229Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-17T10:24:23.0039917Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-17T10:24:23.6880308Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-17T10:24:26.4781904Z","@mt":"No Available Copies Left For This Movie: {movieTitle} ,User {email}","@l":"Debug","movieTitle":"MovieTestNextPage","email":"123@123.com"}
+{"@t":"2022-10-17T15:11:07.4120275Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-17T15:11:07.7130448Z","@mt":"The time is {Now}","Now":"2022-10-17T18:11:07.7120447+03:00"}
+{"@t":"2022-10-17T15:11:08.0280628Z","@mt":"To serialize {tmp} or not to Serialize {@tmp}","tmp":66}
+{"@t":"2022-10-17T15:15:07.7597747Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-17T15:15:07.8177780Z","@mt":"The time is {Now}","Now":"2022-10-17T18:15:07.8177780+03:00"}
+{"@t":"2022-10-17T15:15:08.7148293Z","@mt":"To serialize {tmp} or not to Serialize {@tmp}","tmp":66}
+{"@t":"2022-10-17T15:38:08.0047201Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-10-17T15:38:08.1017257Z","@mt":"The time is {Now}","Now":"2022-10-17T18:38:08.1007256+03:00"}
+{"@t":"2022-10-17T15:38:08.3007371Z","@mt":"To serialize {tmp} or not to Serialize {@tmp}","tmp":66}

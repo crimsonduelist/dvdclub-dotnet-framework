@@ -1,0 +1,94 @@
+﻿@*@using DvdClub.Core.Entities;
+    @model MOVIE*@
+
+@*@model IEnumerable<DvdClub.Core.Entities.MOVIE>*@
+@model PagedList.IPagedList<DvdClub.Core.Entities.Movie>
+@using DvdClub.Core.Entities
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>
+    add include() count()
+    Index
+</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div>
+    @*@Html.DropDownListFor(m => m.genre, new SelectList(Enum.GetValues(typeof(GENRE))),
+        "Select Gender")*@
+</div>
+@using( Html.BeginForm("Index", "Movies", FormMethod.Get) ) {<!--FormMethod is needed for working with [HttpGet]-->
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            <!--id-->
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Id)<!--this works for dynamically taking the names -There are alternatives-->
+        </th>
+        <th>
+            <!--title-->
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Genre)
+        </th>
+        <th>
+            <!--desc-->
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Description)
+        </th>
+        <th>
+            <!--add count of copies-->
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Copies)
+        </th>
+        <th>
+            <!--connevt couple lines css to make it smaller-->
+            @using( Html.BeginForm("Index", "Movies", FormMethod.Get) ) {
+                @Html.DropDownList("Genre", EnumHelper.GetSelectList(typeof(Genre)), "Genre", new { @class = "form-control" })
+                <input type="submit" value="-->" />}
+        </th>
+    </tr>
+
+    @foreach( var item in Model ) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @item.Copies.Count(x => x.Availability != false);
+            </td>
+
+
+            <td>
+                <!--only admin-->
+                @Html.ActionLink("Edit", "Edit", new {
+                    id = item.Id
+        }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                <!---->
+                @Html.ActionLink("Rent", "Create", "Rentals", new { MovieTitle = item.Title }, null) |<!--without ,null it takes krathsh as a route value instead of controller-->
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
